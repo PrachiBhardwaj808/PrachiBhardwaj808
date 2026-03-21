@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there ! <br>I'm a first year CSE undergrad. <br>Building a strong foundation in programming <br< Love exploring tech
+Hi there ! <br>I'm a first year CSE undergrad. <br>Building a strong foundation in programming <br> Love exploring tech
 
 
 ## 🌐 Socials:
