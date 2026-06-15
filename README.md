@@ -6,7 +6,7 @@
 </p>
 -->
 
-<h1 align="center">Hey 👋 I'm <span style="color:#00A3FF">Prachi Bhardwaj </span></h1>
+<h1 align="center">Hi👋🏻I'm <span style="color:#00A3FF">Prachi Bhardwaj </span></h1>
 
 <p align="center">
    Frontend  Developer  <br/>
@@ -24,29 +24,37 @@
     <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
+<br>
+<br>
 
 
 
 
 ---
+
+
 
 ## 👨‍💻 About Me
-- I build **scalable full-stack applications** using modern tech stacks.
-- Strong interest in **AI-powered products** and real-world problem solving.
-- Active **hackathon participant**, rapid prototyper, and team leader.
-- Believe in **strong fundamentals + execution speed**.
+- CS student passionate about creating with technology..
+- Exploring Full-Stack Development & AI through projects.
+- Building my problem-solving and coding skills.
+- Learning, building, and growing every day.
 
 ---
+
+
 
 ## 🧰 Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,,python,langchain,c,html,css,js,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,c,java,python,git,github" />
 </p>
 
-- **Programming Languages:**  C, JavaScript, Python
+
+- **Languages:** Java , Python , C , Javascript
 <!-- - **Backend & Databases:** Node.js, Express, MongoDB, Firebase-->  
-- **Frontend:** React, HTML, CSS  
+- **Frontend:** HTML,CSS,Javascript,React
+  
 <!--- **AI & Tools:** LangChain, Pinecone, REST APIs
 - **Soft Skills:** Leadership, Team Management, Product Thinking  -->
 
@@ -66,24 +74,23 @@
 - 🎯 Focus on **optimized solutions, edge cases & clean logic**
 - 🧩 Regular practice on **LeetCode & GeeksforGeeks**-->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DSA-150%2B%20Problems%20Solved-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Primary%20Language-Java-orange?style=for-the-badge&logo=java">
-</p>
 
----
 
-## 🚀 Featured Projects
+<!--## 🚀 Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
+<br>
+<br>
 
 ###  Mediqueue
 Priority Based Queue Management system 
 
 
 **Tech:** HTML , CSS , Javascript
+
+</table>-->
 
 
 
