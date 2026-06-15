@@ -1,9 +1,5 @@
 
-<!-- ================= BANNER (OPTIONAL – upload later) ================= -->
-<!--
-<p align="center">
-  <img src="./assets/banner.gif" alt="Lakshya Chauhan - Banner" width="100%" />
-</p>
+
 -->
 
 <h1 align="center">Hi👋🏻I'm <span style="color:#00A3FF">Prachi Bhardwaj </span></h1>
