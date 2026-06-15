@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachi-bhardwaj-bb0083346/" target="_blank">
+  <a href="https://www.linkedin.com/in/prachi-bhardwaj-bb0083346/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:prachibhardwaj808@gmail.com">
@@ -34,7 +34,7 @@
 
 
 
-## 👨‍💻 About Me
+## 👩🏻‍💻 About Me
 - CS student passionate about creating with technology..
 - Exploring Full-Stack Development & AI through projects.
 - Building my problem-solving and coding skills.
@@ -44,7 +44,7 @@
 
 
 
-## 🧰 Tech Stack & Skills
+## 🛠️Tech Stack & Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,c,java,python,git,github" />
@@ -71,26 +71,8 @@
   - Recursion & Backtracking  
   - Dynamic Programming  
   - Graphs (BFS / DFS)  
-- 🎯 Focus on **optimized solutions, edge cases & clean logic**
-- 🧩 Regular practice on **LeetCode & GeeksforGeeks**-->
+- 🎯 Focus on **optimized solutions, edge cases & clean logic**-->
 
-
-
-<!--## 🚀 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<br>
-<br>
-
-###  Mediqueue
-Priority Based Queue Management system 
-
-
-**Tech:** HTML , CSS , Javascript
-
-</table>-->
 
 
 
