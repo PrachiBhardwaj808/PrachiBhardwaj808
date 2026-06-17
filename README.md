@@ -1,6 +1,5 @@
 
 
--->
 
 <h1 align="center">Hi👋🏻I'm <span style="color:#00A3FF">Prachi Bhardwaj </span></h1>
 
@@ -31,7 +30,7 @@
 
 
 ## 👩🏻‍💻 About Me
-- CS student passionate about creating with technology..
+- CS student passionate about creating with technology.
 - Exploring Full-Stack Development & AI through projects.
 - Building my problem-solving and coding skills.
 - Learning, building, and growing every day.
