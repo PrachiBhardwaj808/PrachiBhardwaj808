@@ -8,7 +8,7 @@
    B.E. CSE @ Chitkara University
 </p>
 
-<p align="center">
+<!--<p align="center">
   <a href="https://www.linkedin.com/in/prachi-bhardwaj-bb0083346/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -18,7 +18,7 @@
   <a href="https://github.com/PrachiBhardwaj808">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-</p>
+</p>-->
 <br>
 <br>
 
@@ -29,7 +29,7 @@
 
 
 
-## 👩🏻‍💻 About Me
+##  About Me
 - CS student passionate about creating with technology.
 - Exploring Full-Stack Development & AI through projects.
 - Building my problem-solving and coding skills.
