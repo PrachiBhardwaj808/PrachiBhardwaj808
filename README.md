@@ -1,11 +1,11 @@
 
 
 
-<h1 align="center">Hi👋🏻I'm <span style="color:#00A3FF">Prachi Bhardwaj </span></h1>
+<h1 align="center">Hi I'm <span style="color:#00A3FF">Prachi Bhardwaj </span></h1>
 
 <p align="center">
    Frontend  Developer  <br/>
-  🎓 B.E. CSE @ Chitkara University
+   B.E. CSE @ Chitkara University
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 
 
 
-## 🛠️Tech Stack & Skills
+## Tech Stack & Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,c,java,python,git,github" />
@@ -55,9 +55,9 @@
 
 ---
 
-<!--## 🧠 Data Structures & Algorithms (DSA)
+<!--##  Data Structures & Algorithms (DSA)
 
-- ✅ Solved **150+ DSA questions in Java**
+-  Solved **150+ DSA questions in Java**
 - 📌 Strong command over:
   - Arrays & Strings  
   - Linked Lists  
@@ -71,7 +71,7 @@
 
 
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PrachiBhardwaj808&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=PrachiBhardwaj808&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrachiBhardwaj808&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
